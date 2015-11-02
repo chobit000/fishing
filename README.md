@@ -1,7 +1,5 @@
-title: README.md
-desc: 2015-11-02 18:27:42
-date: 2015-11-02 18:27:42
-tags:
+
+tags: game
 ---
 
 [cover]: /images/bg.png "捕鱼达人"
