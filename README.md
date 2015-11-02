@@ -1,6 +1,6 @@
+# 捕鱼达人
 
-tags: game
----
+### 介绍
 
 [cover]: /images/bg.png "捕鱼达人"
 
